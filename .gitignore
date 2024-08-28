@@ -1,0 +1,33 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Compiled source #
+*.class
+*/bin/*
+
+# intelliJ files
+*.iml
+*/*.iml
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# vscode files
+.vscode
+
+# Packages
+*.jar
+
+# Merge files
+*.orig
+.idea
+/deps.log
+
+Zone.Identifier
+
+defaultConfigurableEntities
+deployment-support-tooling
+deploymentDescriptions
